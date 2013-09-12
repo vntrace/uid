@@ -1,0 +1,14 @@
+{
+  "name": "j-uid",
+  "description": "uid generate",
+  "version": "0.0.1",
+  "main": "index",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thanh Dang <clgt@clgt.vn> (http://clgt.vn/)",
+  "license": "BSD"
+}
